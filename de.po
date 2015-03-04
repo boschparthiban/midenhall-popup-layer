@@ -16,7 +16,7 @@ msgstr ""
 "X-POOTLE-MTIME: 1425445858.903664\n"
 
 msgid "Do you want to delete Voice Note?"
-msgstr ""
+msgstr " help.po"
 
 msgid "Do you want to rename your new voicenote ?"
 msgstr "german1?"
